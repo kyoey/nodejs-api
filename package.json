@@ -1,0 +1,10 @@
+{
+    "name": "jsonapi",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "~1.0.2",
+        "express": "~4.0.0",
+        "moment": "^2.24.0",
+        "mongoose": "~4.2.7"
+    }
+}
